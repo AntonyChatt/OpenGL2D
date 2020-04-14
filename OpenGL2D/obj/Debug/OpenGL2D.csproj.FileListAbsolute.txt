@@ -1,0 +1,17 @@
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\bin\Debug\OpenGL2D.exe.config
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\bin\Debug\OpenGL2D.exe
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\bin\Debug\OpenGL2D.pdb
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\bin\Debug\Tao.OpenGl.dll
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\bin\Debug\Tao.OpenGl.xml
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\obj\Debug\OpenGL2D.csprojAssemblyReference.cache
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\obj\Debug\OpenGL2D.Form1.resources
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\obj\Debug\OpenGL2D.Properties.Resources.resources
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\obj\Debug\OpenGL2D.csproj.GenerateResource.cache
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\obj\Debug\OpenGL2D.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\obj\Debug\OpenGL2D.csproj.CopyComplete
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\obj\Debug\OpenGL2D.exe
+C:\Users\Ольга\Desktop\ndbvc\cg\OpenGL2D\OpenGL2D\obj\Debug\OpenGL2D.pdb
